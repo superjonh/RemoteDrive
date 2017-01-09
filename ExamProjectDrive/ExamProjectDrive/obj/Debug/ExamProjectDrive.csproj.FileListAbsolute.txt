@@ -1,0 +1,10 @@
+c:\users\super\documents\visual studio 2013\Projects\ExamProjectDrive\ExamProjectDrive\bin\Debug\ExamProjectDrive.dll.config
+c:\users\super\documents\visual studio 2013\Projects\ExamProjectDrive\ExamProjectDrive\bin\Debug\ExamProjectDrive.dll
+c:\users\super\documents\visual studio 2013\Projects\ExamProjectDrive\ExamProjectDrive\bin\Debug\ExamProjectDrive.pdb
+c:\users\super\documents\visual studio 2013\Projects\ExamProjectDrive\ExamProjectDrive\bin\Debug\EntityFramework.dll
+c:\users\super\documents\visual studio 2013\Projects\ExamProjectDrive\ExamProjectDrive\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\super\documents\visual studio 2013\Projects\ExamProjectDrive\ExamProjectDrive\bin\Debug\EntityFramework.xml
+c:\users\super\documents\visual studio 2013\Projects\ExamProjectDrive\ExamProjectDrive\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\super\documents\visual studio 2013\Projects\ExamProjectDrive\ExamProjectDrive\obj\Debug\ExamProjectDrive.csprojResolveAssemblyReference.cache
+c:\users\super\documents\visual studio 2013\Projects\ExamProjectDrive\ExamProjectDrive\obj\Debug\ExamProjectDrive.dll
+c:\users\super\documents\visual studio 2013\Projects\ExamProjectDrive\ExamProjectDrive\obj\Debug\ExamProjectDrive.pdb
