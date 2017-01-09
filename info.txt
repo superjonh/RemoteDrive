@@ -1,2 +1,0 @@
-service name : ExamDrive
-used reference: http://localhost/ExamDrive/Service.svc?wsdl
